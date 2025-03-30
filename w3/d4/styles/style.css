@@ -1,0 +1,7 @@
+th {
+    border: 1px solid #dee2e6;
+}
+
+.table-data:nth-of-type(1) {
+    text-align: center;
+}
